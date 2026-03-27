@@ -1,1 +1,1 @@
-# -Smart-Calculator-Lite
+# Smart-Calculator-Lite
